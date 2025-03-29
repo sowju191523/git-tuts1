@@ -1,3 +1,7 @@
 this is an example folder jfie2 jfile3 jfile4 jfile5
 
+<<<<<<< HEAD
 jfile6
+=======
+jfile8
+>>>>>>> 278b9e1c46fa2b25a2bdd93ffbc005288141fdb2
